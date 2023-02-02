@@ -1,0 +1,7 @@
+New project
+
+#git init -- register your project
+#git status -- gives information about the project
+#git add <filename> -- add a file to git for tracking
+#git add . -- add all the files in the project to hit for tracking
+#git commit -m "Message"
