@@ -5,3 +5,6 @@ New project
 #git add <filename> -- add a file to git for tracking
 #git add . -- add all the files in the project to hit for tracking
 #git commit -m "Message"
+
+A project folder or directory that is being tracked by git is refered to 
+as a repository
